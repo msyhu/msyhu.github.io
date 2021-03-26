@@ -1,6 +1,6 @@
 resume_url: "Resume.pdf"
 author_name: "msyhu"
-url: johndoe.com
+url: msyhu.github.io
 
 plugins:
   - jekyll-seo-tag
@@ -153,5 +153,4 @@ google_analytics: "G-3EGNV7YCX4"
 disqus:
   # Leave shortname blank to disable comments site-wide.
   # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
-  comments: true
   shortname: msyhu-github-io
