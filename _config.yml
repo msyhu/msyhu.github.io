@@ -17,11 +17,11 @@ title: msyhu TIL
 email: anstkd07@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   What I do every day matters more than what I do once
-baseurl: "/hitchens" # the subpath of your site, e.g. /blog
-url: "https://patdryburgh.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/msyhu" # the subpath of your site, e.g. /blog
+url: "https://msyhu.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 icon: /assets/images/icon-512.png
-twitter_username: patdryburgh
-github_username:  patdryburgh
+twitter_username: msyhu
+github_username:  msyhu
 
 # Build settings
 markdown: kramdown
