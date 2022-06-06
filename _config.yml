@@ -17,7 +17,7 @@ title: msyhu TIL
 email: anstkd07@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   What I do every day matters more than what I do once
-baseurl: "/msyhu" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://msyhu.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 icon: /assets/images/icon-512.png
 twitter_username: msyhu
